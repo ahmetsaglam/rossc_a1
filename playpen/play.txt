@@ -1,0 +1,8 @@
+cp -r sandbox/ playpen
+tree
+mv playpen/dir1 playpen/folder1
+mv playpen/dir2 playpen/folder2
+mv playpen/commands.txt playpen/play.txt
+nano playpen/play.txt 
+
+ 
